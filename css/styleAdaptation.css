@@ -1,4 +1,4 @@
-@media only screen and (max-width: 1200px) {
+@media (max-width: 1200px) {
   .title_block{
     width: auto;
     height: 500px;
@@ -107,7 +107,7 @@
     height: 600px;
   }
 }
-@media only screen and (max-width: 992px) {
+@media (max-width: 992px) {
   .body_title1{
     word-wrap: break-word;
   }
